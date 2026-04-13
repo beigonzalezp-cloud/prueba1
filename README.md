@@ -32,7 +32,11 @@ utilizando comando vim dejar definitiva la particion
 <img width="1916" height="1079" alt="image" src="https://github.com/user-attachments/assets/c03f61b0-4d98-4910-a2ab-c4ef22398443" />
 
 particion numero 4 montada 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c7ccc45d-b33e-4ef5-93fd-ddc9e8c101ef" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c7ccc45d-b33e-4ef5-93fd-ddc9e8c101ef" 
+
+reboot para que la particion se vea montada definitivamente montada sda1, sda3, sda4 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0eca1f0a-f61f-453d-9cfe-cc1d910a2162" />
+
 
 
 
